@@ -1,0 +1,43 @@
+# Textbook Library — AI Readable Index
+
+## Project Info
+- Name: China K-12 Textbook Library (中国K12中小学教材库)
+- Version: 1.0.0
+- Total Textbooks: 2637
+- Source: basic.smartedu.cn/tchMaterial (National Smart Education Platform of China)
+- License: MIT (code) / Platform copyright (data)
+- Mission: Open public-benefit, helping global Chinese learners
+
+## Quick Start for AI Agents
+- Read catalog index: references/catalog_index.md
+- Structured data: references/catalog.json
+- CSV format: references/catalog.csv
+- Lookup script: scripts/lookup.js (Node) or scripts/lookup.py (Python)
+- Stage-specific indexes: references/primary.md, junior.md, senior.md, special.md
+
+## Catalog Dimensions
+1. Stage (学段): 小学, 初中, 高中, 特殊教育, 小学(五四学制), 初中(五四学制), 其他
+2. Subject (学科): 语文, 数学, 英语, 物理, 化学, 生物, 历史, 地理, 道德与法治, etc.
+3. Edition (版本): 人教版, 北师大版, 苏教版, 部编版, etc.
+4. Grade (年级): 一年级 through 十二年级
+5. Volume (册次): 上册, 下册, 全一册
+
+## Entry Points
+- SKILL.md: Claude Code skill definition
+- AGENTS.md: Universal AI agent instructions
+- README.md: Human-friendly project overview (bilingual)
+- CONTRIBUTING.md: How to contribute
+
+## Integration
+- OpenClaw: Auto-detected via skills/ directory, 50+ messaging platforms
+- Hermes Agent: Auto-loaded via skills/ directory, self-improving skill system
+- Claude Code: Auto-detected via .claude/skills/textbook-library/
+- ChatGPT/GPT: Use AGENTS.md as instructions, catalog.csv as knowledge
+- Codex CLI (OpenAI): Auto-indexed via AGENTS.md in skills directory
+- Cursor/Windsurf: Auto-indexed via AGENTS.md
+- GitHub Copilot / Cline / RooCode: Auto-indexed via AGENTS.md
+- Aider / Gemini CLI: Run lookup scripts directly
+- Devin: Fork project, auto-indexed
+- LangChain: Parse catalog.json directly
+- Continue.dev / OpenHands: Project-level skills indexing
+- Custom: Run lookup.js or lookup.py via subprocess

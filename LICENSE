@@ -1,0 +1,46 @@
+MIT License
+
+Copyright (c) 2025 Textbook Library Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## 📖 内容说明 / Content Notice
+
+本项目提供的教材目录与正版教材同步，教材内容版权归原出版社所有。
+本项目仅提供教材目录索引和检索工具，不包含任何教材正文内容。
+
+The textbook catalog in this project is synchronized with official textbooks.
+All textbook content copyrights belong to their respective publishers.
+This project provides only a catalog index and search tools, without any textbook body content.
+
+---
+
+## 🌍 开放公益声明 / Open Public Benefit Statement
+
+本项目是一个开放、公益的代码库，旨在：
+- 让更多人便捷地发现和访问中国K12教材资源
+- 为海外华人学子学习中文教材提供便利
+- 促进教育资源的信息化与开放获取
+
+This is an open-source, public-benefit project that aims to:
+- Help people easily discover and access Chinese K-12 textbook resources
+- Provide convenience for overseas Chinese students learning Chinese textbooks
+- Promote the informatization and open access of educational resources
