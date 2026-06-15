@@ -187,13 +187,39 @@ https://basic.smartedu.cn/tchMaterial/detail?id={教材UUID}
 
 ---
 
-## ⭐ Star History
+## ⭐ 支持我们 / Support Us
 
-如果你觉得这个项目有用，请点个 Star 支持我们！
+如果这个项目帮助了你或你的孩子找到了需要的教材——请点一个 ⭐ Star。
 
-If you find this project helpful, please give it a Star to support us!
+这束星光会让更多海外学子、中文教师、教育公益者发现这个项目。
+
+If this project helped you or your child find the right textbook — give it a ⭐ Star. That starlight helps more overseas students, Chinese teachers, and education advocates discover this resource.
 
 ---
 
-> 📮 联系 / Contact: 提交 [Issue](https://github.com/pengboyjak/textbook-library/issues) 或 PR  
-> 🌍 本项目永久开放公益，不收取任何费用 / This project is permanently free and open for public benefit
+## ☕ 赞助本项目 / Sponsor
+
+这个项目将**永久免费、永久开源**——不会收费，不会加广告，不会设付费墙。
+
+但维护一个涵盖 2,637 本教材的数据库需要持续的精力投入：
+
+- 🕐 跟踪教材版本更新
+- 🔧 维护多语言查询脚本
+- 🤖 适配不断涌现的新 AI 智能体平台
+- 🌐 为海外访问提供更快的镜像服务
+
+**如果你愿意请我们喝杯咖啡，每一份心意都在说：这件事值得做下去。**
+
+<div align="center">
+
+![赞助收款码](./assets/sponsor-qr.jpg)
+
+*微信/支付宝扫码均可*
+
+</div>
+
+> 💡 赞助完全自愿，不赞助也永久免费使用。你觉得有价值就够了。
+
+---
+
+> 📮 联系 / Contact: 提交 [Issue](https://github.com/pengboyjak/textbook-library/issues) 或 PR
